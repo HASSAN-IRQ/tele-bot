@@ -11,7 +11,7 @@ do
 
 local function run(msg, matches)
 if is_sudo(msg) and matches[1]== "help dev" then
-return [[  It is shown by the channel orders @S94IQ ❤️💋
+return [[  
 
 ✔️All orders to operate without setting / او !
 ا🔸➖🔹➖🔸➖🔹➖🔸
@@ -42,9 +42,7 @@ return [[  It is shown by the channel orders @S94IQ ❤️💋
 ا🔸➖🔹➖🔸➖🔹➖🔸
 🃏🔺For inquiries:- Contact Developer :- ☢⚜ 
 ✋🏿👇🏿
-#Dev : @SAJJADNOORI
-#Dev_bot : @S94_BOT
-#Dev_Channel : @S94IQ
+
 ]]
 end
 

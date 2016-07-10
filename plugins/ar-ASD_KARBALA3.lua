@@ -1,24 +1,21 @@
---[[ 
-▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
-▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY SAJJAD NOORI                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY SAJAD NOORI (@SAJJADNOORI)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY SAJJAD NOORI          ▀▄ ▄▀   
-▀▄ ▄▀          dev1  : dev                 ▀▄ ▄▀ 
-▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
---]]
+
 do
 
 function run(msg, matches)
 return [[
 
-االبوت الذي يعمل على مجوعات السوبر 🔸
+# مطور البوت 
 
-يعمل البوت على مجموعات سوبر تصل الى5k عضو 🔷
+HASSAN EL BAGHDADI
 
-     ≪تم صنع البوت بواسطة المطور≫
-                      『 @SAJJADNOORI 』
-            🔹#Dev #SAJJADNOORI🔹
+# للتواصل مع المطور 
+
+@HASSAN_IRQ
+
+# تم تطوير البوت خصيصا لكروب
+
+🍁 صًآڪيَنْ وُصًآڪآٺ🍂 آلُعٌرآقٌ 🍁
+
 ]]
 end
 
@@ -26,7 +23,7 @@ return {
 description = "Shows bot q", 
 usage = "spam Shows bot q",
 patterns = {
-"^(dev)$",
+"^(مطور البوت)$",
 },
 run = run 
 }
