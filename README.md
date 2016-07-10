@@ -21,11 +21,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 ورأهأَ خلي👇🏿
 **************
-git clone https://github.com/HASSAN-IRQ/tle-bot.git
+git clone https://github.com/HASSAN-IRQ/tele-bot.git
 *****************************************************
 ورهأ خلي 👇🏿 And vinegary
 **************************
-cd tle-bot
+cd tele-bot
 **************************
 ورهأَ خلي👇🏿 And vinegary
 **************************
@@ -63,7 +63,7 @@ redis-server
 وفتح ترمنال ثاني وخلي 👇🏿 Open Terminal and second vinegary
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/HASSAN-IRQ/tle-bot.git && cd ASD_KARBALA && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/HASSAN-IRQ/tele-bot.git && cd ASD_KARBALA && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
