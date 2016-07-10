@@ -88,7 +88,7 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ```
 😘 مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-#Dev : [@(](https://telegram.me/0)
+#Dev : [@0](https://telegram.me/0)
 #Dev_BOT :  [@0](https://telegram.me/0)
 #Dev_Channel :  [@0](https://telegram.me/0)
 
